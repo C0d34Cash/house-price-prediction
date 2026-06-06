@@ -36,6 +36,10 @@ house-price-prediction/
 - Pipelines prevent data leakage: scaler fits only on train folds
 - Handling high-dimensional data: 264 features from 79 original columns
 
+  ## Connect with Me
+**LinkedIn:** [Debojyoti Mondal](www.linkedin.com/in/debojyoti-mondal-654891329)
+**Kaggle:** [TH3_FR33L@NC3r](https://kaggle.com/TH3_FR33L@NC3r)
+
 ## Dataset
 Kaggle - House Prices: Advanced Regression Techniques  
 Kaggle Username: TH3_FR33L@NC3r
